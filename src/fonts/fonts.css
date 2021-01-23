@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "segoeui";
+  src: url("./segoeui.woff") format("woff");
+}
+@font-face {
+  font-family: "segoeuib";
+  src: url("./segoeuib.woff") format("woff");
+}
+@font-face {
+  font-family: "segoeuisb";
+  src: url("./segoeuisb.woff") format("woff");
+}
+@font-face {
+  font-family: "appleNeoUL";
+  src: url("./AppleSDGothicNeoUL.woff") format("woff");
+}
+@font-face {
+  font-family: "appleNeoB";
+  src: url("./AppleSDGothicNeoB.woff") format("woff");
+}
+@font-face {
+  font-family: "appleNeoM";
+  src: url("./AppleSDGothicNeoM.woff") format("woff");
+}
+@font-face {
+  font-family: "appleNeoR";
+  src: url("./AppleSDGothicNeoR.woff") format("woff");
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;900&display=swap');
